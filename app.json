@@ -1,0 +1,19 @@
+{
+  "expo": {
+    "name": "Smart Student Companion",
+    "slug": "smart-student-companion",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "backgroundColor": "#4A90D9"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.smartstudent.companion"
+    },
+    "android": {
+      "package": "com.smartstudent.companion"
+    }
+  }
+}
